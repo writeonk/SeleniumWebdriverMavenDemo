@@ -1,0 +1,35 @@
+[INFO ] 2020-10-13 22:30:42.748 [main] TC01MainPage - Verify URL
+[INFO ] 2020-10-13 22:30:47.986 [main] TC01MainPage - Open URL
+[INFO ] 2020-10-13 22:30:48.028 [main] TC01MainPage - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2020-10-13 22:30:48.045 [main] TC01MainPage - Verify one-way flights
+[INFO ] 2020-10-13 22:30:48.304 [main] TC01MainPage - Click on search button with entering any details.
+[INFO ] 2020-10-13 22:30:48.434 [main] TC01MainPage - Error: Please enter a valid Source
+[INFO ] 2020-10-13 22:30:48.820 [main] TC01MainPage - Enter a valid source
+[INFO ] 2020-10-13 22:30:49.921 [main] TC01MainPage - Click on search button after adding valid source
+[INFO ] 2020-10-13 22:30:50.004 [main] TC01MainPage - Verify Error: Please enter a valid Destination
+[INFO ] 2020-10-13 22:30:50.203 [main] TC01MainPage - Enter a valid destination
+[INFO ] 2020-10-13 22:30:51.243 [main] TC01MainPage - Click on search button after adding valid destination
+[INFO ] 2020-10-13 22:30:51.287 [main] TC01MainPage - Verify Error: Please enter a valid departure date
+[INFO ] 2020-10-13 22:30:51.491 [main] TC01MainPage - Click on departure calendar
+[INFO ] 2020-10-13 22:30:51.749 [main] TC01MainPage - select a valid date
+[INFO ] 2020-10-13 22:30:52.132 [main] TC01MainPage - Click on search button after adding select date
+[INFO ] 2020-10-13 22:30:52.142 [main] TC02Flights - Verify Page Results
+[INFO ] 2020-10-13 22:30:54.719 [main] TC02Flights - list2,516
+[INFO ] 2020-10-13 22:30:54.780 [main] TC02Flights - list2,936
+[INFO ] 2020-10-13 22:30:54.838 [main] TC02Flights - list3,346
+[INFO ] 2020-10-13 22:30:54.922 [main] TC02Flights - list3,346
+[INFO ] 2020-10-13 22:30:55.036 [main] TC02Flights - list3,346
+[INFO ] 2020-10-13 22:30:55.181 [main] TC02Flights - list3,346
+[INFO ] 2020-10-13 22:30:55.294 [main] TC02Flights - list3,346
+[INFO ] 2020-10-13 22:30:55.351 [main] TC02Flights - list3,346
+[INFO ] 2020-10-13 22:30:55.428 [main] TC02Flights - list3,346
+[INFO ] 2020-10-13 22:30:55.491 [main] TC02Flights - list3,346
+[INFO ] 2020-10-13 22:30:55.491 [main] TC02Flights - Page results are in decreasing order
+[INFO ] 2020-10-13 22:30:55.496 [main] TC02Flights - Verify Apply Filters
+[INFO ] 2020-10-13 22:30:55.887 [main] TC02Flights - Apply departure filter
+[INFO ] 2020-10-13 22:30:56.148 [main] TC02Flights - Apply stop filter
+[INFO ] 2020-10-13 22:30:56.513 [main] TC02Flights - Apply airLines filter Air India
+[INFO ] 2020-10-13 22:30:56.623 [main] TC02Flights - list8,807
+[INFO ] 2020-10-13 22:30:56.675 [main] TC02Flights - list8,807
+[INFO ] 2020-10-13 22:30:56.756 [main] TC02Flights - list8,807
+[INFO ] 2020-10-13 22:30:56.757 [main] TC02Flights - Page results are in decreasing order
