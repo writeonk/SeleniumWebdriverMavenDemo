@@ -27,12 +27,15 @@
 
 
 ### Run Project and Get a Report & logs
-> Run TestNg Suite
 
-> wait till project run completly. Once it finished.
+- Run TestNg Suite
+- wait till project run completly. Once it finished.
+- Expand Report folder and you will find latest report there with latest date and time.
+- Click on Report and open with web-browser
+- Find logs in log folder
 
-> Expand Report folder and you will find latest report there with latest date and time.
+### Running test suites from the command line
 
-> Click on Report and open with web-browser
-
-> Find logs in log folder
+- install maven onto your machine
+- CD into the directory containing the test suite for the application you want. `cd com.sample.www`
+- `Run $ mvn clean test -DsuiteFile=testng.xml`
